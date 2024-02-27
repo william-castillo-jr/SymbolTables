@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+leipsig1M.txt
+leipsig100K.txt
+leipsig300K.txt
